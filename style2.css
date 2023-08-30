@@ -1,0 +1,26 @@
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+
+    display: block;
+    margin: 0px auto 0px auto;
+ }
+
+ h1{
+    color:blue;
+ }
+ /*selector id*/
+ #judul{
+color:aqua;
+ }
+ .tengah{
+ align-self:center;
+ color:blue;
+ }
+ h2, h3{
+    color:antiquewhite;
+ }
+ h2.tengah{
+    color:palevioletred;
+ }
